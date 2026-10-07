@@ -1,0 +1,14 @@
+Reference 2
+Missing: author, year, DOI number
+
+@article{,
+   title = {pod71-noorazah}
+}
+
+Reference 5
+Missing: author, year, DOI number
+
+@article{,
+   title = {dent-1994-european-regulatory-compliance-issues-good-research-practices}
+}
+
